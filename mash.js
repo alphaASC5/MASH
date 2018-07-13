@@ -42,8 +42,9 @@ function getSpouse(){
 function getSalary(){
     let decimal5 = Math.random();
     let times7 = decimal5 * 100000;
-    let times8 = decimal5 * 2;
-    if(times8 = 1){
+    let times8 = decimal5 * 50;
+    let r = Math.floor(times8);
+    if(r > 25){
         let result3 = times7 * -1;
         let result4 = Math.floor(result3);
         return result4;
