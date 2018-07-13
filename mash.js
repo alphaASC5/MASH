@@ -21,7 +21,7 @@ function getChildrenCount(){
 }
 
 function mash(){
-    console.log('You will live in a ' + home + ' and you will have ' + children + " kids, and you'll drive a " + car + ". You will marry " + spouse + 'and your salary will be ' + salary + '. You will live until ' + lifespan + ' years old and you will be a ' + career + '.');
+    console.log('You will live in a ' + home + ' and you will have ' + children + " kids, and you'll drive a " + car + ". You will marry " + spouse + ' and your salary will be ' + salary + '. You will live until ' + lifespan + ' years old and you will be a ' + career + '.');
 }
 
 
